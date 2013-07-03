@@ -1,0 +1,8 @@
+\\isad.isadroot.ex.ac.uk\uoe\user\visual studio 2012\Projects\DataVisualisation\DataVisualisation\bin\Debug\DataVisualisation.dll
+\\isad.isadroot.ex.ac.uk\uoe\user\visual studio 2012\Projects\DataVisualisation\DataVisualisation\bin\Debug\DataVisualisation.pdb
+\\isad.isadroot.ex.ac.uk\uoe\user\visual studio 2012\Projects\DataVisualisation\DataVisualisation\bin\Debug\Statistics.dll
+\\isad.isadroot.ex.ac.uk\uoe\user\visual studio 2012\Projects\DataVisualisation\DataVisualisation\bin\Debug\Statistics.pdb
+\\isad.isadroot.ex.ac.uk\uoe\user\visual studio 2012\Projects\DataVisualisation\DataVisualisation\obj\Debug\DataVisualisation.dll
+\\isad.isadroot.ex.ac.uk\uoe\user\visual studio 2012\Projects\DataVisualisation\DataVisualisation\obj\Debug\DataVisualisation.pdb
+\\isad.isadroot.ex.ac.uk\uoe\user\visual studio 2012\Projects\DataVisualisation\DataVisualisation\obj\Debug\DataVisualisation.StatisticsDataGridView.resources
+\\isad.isadroot.ex.ac.uk\uoe\user\visual studio 2012\Projects\DataVisualisation\DataVisualisation\obj\Debug\DataVisualisation.csproj.GenerateResource.Cache
